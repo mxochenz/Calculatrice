@@ -10,7 +10,7 @@ Opérations mathématiques de base (addition, soustraction, multiplication, divi
 Interface responsive adaptée à tous les écrans
 Design moderne avec animations fluides
 Gestion des nombres décimaux
-Bouton de réinitialisation (C)
+Bouton de réinitialisation
 
 🛠️ Technologies Utilisées
 
